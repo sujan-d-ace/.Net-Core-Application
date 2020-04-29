@@ -1,0 +1,33 @@
+﻿.imageThumbnail {
+    height: 200px;
+    width: auto;
+}
+
+.addToCart{
+    margin-bottom: 0px;
+}
+
+#cartButton {
+    margin-right: 8px;
+}
+
+a.remove {
+    text-decoration: none;
+}
+
+a.remove:hover {
+        color: blue;
+}
+
+.orderForm {
+    margin-top: 3%;
+    border-radius: 20px;
+    border-style: solid;
+    border-color: #2fa4e7;
+}
+
+.loginForm {
+    margin-top: 5%;    
+}
+
+

@@ -1,0 +1,12 @@
+﻿@model DrinkListViewModel
+
+<h2>@Model.CurrentCategory</h2>
+
+<div class="card-deck">
+    @{
+        foreach (Drink drink in Model.Drinks)
+        {
+            @Html.Partial("DrinksSummary", drink);
+        }
+    }
+</div>

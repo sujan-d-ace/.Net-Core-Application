@@ -1,0 +1,21 @@
+﻿@model Drink
+
+
+    <div class="card m-3 mb-0" style="min-width: 18rem; max-width:28.5%;">
+        <img class="card-img-top imageThumbnail" src="@Model.ImageThumbnailPath" asp-append-version="true" />
+        <div class="card-footer">
+            <h3 class="float-right">@Model.Price.ToString()</h3>
+            <h3>
+                <a href="#">@Model.Name</a>
+            </h3>
+            <p>@Model.ShortDescription</p>
+        </div>
+        <div class="text-right">
+            <p class="btn">
+                <a class="btn btn-success" id="cardButton"
+                    asp-controller="ShoppingCart"
+                    asp-action="AddToShoppingCart"
+                    asp-route-drinkId="@Model.DrinkId">Add to Cart</a>
+            </p>
+        </div>
+    </div>

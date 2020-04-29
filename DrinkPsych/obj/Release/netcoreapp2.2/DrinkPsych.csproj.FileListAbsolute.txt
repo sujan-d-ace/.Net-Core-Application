@@ -1,0 +1,6 @@
+A:\.NetCore Project\DrinkPsych\DrinkPsych\obj\Release\netcoreapp2.2\DrinkPsych.csprojAssemblyReference.cache
+A:\.NetCore Project\DrinkPsych\DrinkPsych\obj\Release\netcoreapp2.2\DrinkPsych.csproj.CoreCompileInputs.cache
+A:\.NetCore Project\DrinkPsych\DrinkPsych\obj\Release\netcoreapp2.2\DrinkPsych.RazorAssemblyInfo.cache
+A:\.NetCore Project\DrinkPsych\DrinkPsych\obj\Release\netcoreapp2.2\DrinkPsych.RazorAssemblyInfo.cs
+A:\.NetCore Project\DrinkPsych\DrinkPsych\obj\Release\netcoreapp2.2\DrinkPsych.AssemblyInfoInputs.cache
+A:\.NetCore Project\DrinkPsych\DrinkPsych\obj\Release\netcoreapp2.2\DrinkPsych.AssemblyInfo.cs
